@@ -1,4 +1,4 @@
-package appolonia.com.capcomnotation;
+package com.appolonia.pinball;
 
 import org.junit.Test;
 
